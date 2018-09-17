@@ -1,0 +1,7 @@
+{
+  "name": "TransferProj",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
